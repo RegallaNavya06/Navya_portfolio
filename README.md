@@ -31,7 +31,7 @@ This portfolio was built using:
 
 
 You can view the live portfolio here:  
-🔗 [https://kavyasriraavi.github.io/portfolio](https://kavyasriraavi.github.io/portfolio)
+🔗 [[(https://github.com/RegallaNavya06/Navya_portfolio)]](https://github.com/RegallaNavya06/Navya_portfolio)
 
 
 ---
